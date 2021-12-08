@@ -1,7 +1,0 @@
-D:\СПП\laba5\laba5\bin\Debug\laba5.exe.config
-D:\СПП\laba5\laba5\bin\Debug\laba5.exe
-D:\СПП\laba5\laba5\bin\Debug\laba5.pdb
-D:\СПП\laba5\laba5\obj\x86\Debug\laba7.csprojAssemblyReference.cache
-D:\СПП\laba5\laba5\obj\x86\Debug\laba7.csproj.CoreCompileInputs.cache
-D:\СПП\laba5\laba5\obj\x86\Debug\laba5.exe
-D:\СПП\laba5\laba5\obj\x86\Debug\laba5.pdb
