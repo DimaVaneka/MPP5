@@ -1,0 +1,13 @@
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\bin\Debug\netcoreapp3.1\OSHandle_user.exe
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\bin\Debug\netcoreapp3.1\OSHandle_user.deps.json
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\bin\Debug\netcoreapp3.1\OSHandle_user.runtimeconfig.json
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\bin\Debug\netcoreapp3.1\OSHandle_user.runtimeconfig.dev.json
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\bin\Debug\netcoreapp3.1\OSHandle_user.dll
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\bin\Debug\netcoreapp3.1\OSHandle_user.pdb
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\obj\Debug\netcoreapp3.1\OSHandle_user.csprojAssemblyReference.cache
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\obj\Debug\netcoreapp3.1\OSHandle_user.AssemblyInfoInputs.cache
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\obj\Debug\netcoreapp3.1\OSHandle_user.AssemblyInfo.cs
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\obj\Debug\netcoreapp3.1\OSHandle_user.csproj.CoreCompileInputs.cache
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\obj\Debug\netcoreapp3.1\OSHandle_user.dll
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\obj\Debug\netcoreapp3.1\OSHandle_user.pdb
+D:\СПП\MPP_Labs-main\OSHandle_Mutex\OSHandle_user\obj\Debug\netcoreapp3.1\OSHandle_user.genruntimeconfig.cache
